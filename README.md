@@ -6,10 +6,13 @@ and THE ORDER OF RUNING SCRIPTS IS A-C-B
 
 Since IDE cannot locate element in a opening new website, so the test case must be executed one by one.
 
-1. firefox version54 can work for selenium IDE
+
+1.firefox version54 can work for selenium IDE
 55 no longer support
+
 must degrade firefox
 https://support.mozilla.org/en-US/kb/install-older-version-of-firefox#w_downgrade-alternatives
+
 get previous version on
 https://ftp.mozilla.org/pub/firefox/releases/54.0/win64/zh-CN/
 
