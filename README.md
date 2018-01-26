@@ -4,11 +4,11 @@ This is a rudiment test script for Lynn to complete montonous and repetitive wor
 Only works for selenium IDE
 and THE ORDER OF RUNING SCRIPTS IS A-C-B
 
-Since IDE cannot locate element in a opening new website, so the test case must be executed one by one.
+Since IDE cannot locate element in a new opening website, so the test case must be executed one by one.
 
 
 1.firefox version54 can work for selenium IDE
-55 no longer support
+55 no longer support selenium
 
 must degrade firefox
 https://support.mozilla.org/en-US/kb/install-older-version-of-firefox#w_downgrade-alternatives
